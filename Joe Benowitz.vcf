@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.6.2//EN
+N:Benowitz;Joe;;;
+FN:Joe Benowitz
+ORG:AlphaFundPE;
+TITLE:Chief Executive Officer
+EMAIL;type=INTERNET;type=pref:jb@alphafundpe.com
+TEL;type=CELL;type=VOICE;type=pref:+1 (801) 915-1316
+item1.URL;type=pref:www.linkedin.com/in/joebenowitz/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
